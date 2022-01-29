@@ -2,7 +2,7 @@
 //  ImageViewInit.swift
 //  QRTrainerTruck
 //
-//  Created by Koplányi Dávid on 2021. 11. 02..
+//  Created by Koplányi Dávid on 2021. 11. 02.
 //
 
 import UIKit

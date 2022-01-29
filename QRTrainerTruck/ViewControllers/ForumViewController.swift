@@ -2,7 +2,7 @@
 //  TableViewController.swift
 //  QRTrainerTruck
 //
-//  Created by Koplányi Dávid on 2021. 11. 06..
+//  Created by Koplányi Dávid on 2021. 11. 06.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  ProfileViewController.swift
 //  QRTrainerTruck
 //
-//  Created by Koplányi Dávid on 2021. 10. 28..
+//  Created by Koplányi Dávid on 2021. 10. 28.
 //
 
 import UIKit

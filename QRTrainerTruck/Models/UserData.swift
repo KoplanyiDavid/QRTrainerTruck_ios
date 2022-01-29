@@ -2,7 +2,7 @@
 //  User.swift
 //  QRTrainerTruck
 //
-//  Created by Koplányi Dávid on 2021. 11. 09..
+//  Created by Koplányi Dávid on 2021. 11. 09.
 //
 
 import Foundation

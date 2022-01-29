@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  QRTrainerTruck
 //
-//  Created by Koplányi Dávid on 2021. 10. 07..
+//  Created by Koplányi Dávid on 2021. 10. 07.
 //
 
 import UIKit

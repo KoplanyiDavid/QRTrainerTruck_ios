@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  QRTrainerTruck
 //
-//  Created by Koplányi Dávid on 2021. 10. 25..
+//  Created by Koplányi Dávid on 2021. 10. 25.
 //
 
 import UIKit

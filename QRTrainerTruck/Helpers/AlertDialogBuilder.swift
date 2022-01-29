@@ -2,7 +2,7 @@
 //  AlertDialogBuilder.swift
 //  QRTrainerTruck
 //
-//  Created by Koplányi Dávid on 2021. 11. 04..
+//  Created by Koplányi Dávid on 2021. 11. 04.
 //
 
 import Foundation
